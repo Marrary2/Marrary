@@ -1,7 +1,7 @@
 ### Hi there 
 
 - I'm currently working on Kataklysm  Machine Learning Engineer
-- I'm currently learning
+
 
 ### Best Technologies 
 
